@@ -7,9 +7,9 @@
       "direction": "in",
       "name": "req",
       "methods": [
-        "put"
-      ],
-      "connection": "MyDbConnection"
+        "get",
+        "post"
+      ]
     },
     {
       "type": "http",
