@@ -8,7 +8,7 @@ from feedgen.feed import FeedGenerator
 from flask import make_response
 from urllib.parse import urljoin
 from werkzeug.contrib.atom import AtomFeed
-from . import settings
+import settings
 from datetime import datetime
 
 app = Flask(__name__)
