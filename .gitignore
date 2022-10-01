@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.DS_Store
+.idea/
+.venv/
+.vscode/
+
+NeighborlyAPI/.vscode/
+NeighborlyAPI/.venv/
+NeighborlyAPI/.DS_store
+NeighborlyAPI/__pycache__/
+
+
+NeighborlyFrontEnd/.vscode/
+NeighborlyFrontEnd/.venv
+NeighborlyFrontEnd/.DS_store
+NeighborlyFrontEnd/__pycache__/
